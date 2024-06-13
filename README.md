@@ -67,8 +67,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
  
 For any questions or inquiries, please contact folayeni11@gmail.com.
  
----
- 
+```
+
 By providing a comprehensive overview of the sales data analysis process and the insights derived from it, this README aims to guide users through the tools, data sources, key questions, and findings in a clear and structured manner
 Kaggle: Your Machine Learning and Data Science Community
 Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals.
